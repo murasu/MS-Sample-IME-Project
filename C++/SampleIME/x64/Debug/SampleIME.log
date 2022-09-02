@@ -1,0 +1,54 @@
+﻿  ActiveLanguageProfileNotifySink.cpp
+  BaseDictionaryEngine.cpp
+  BaseWindow.cpp
+  ButtonWindow.cpp
+  CandidateListUIPresenter.cpp
+  CandidateWindow.cpp
+  Compartment.cpp
+  Composition.cpp
+  CompositionProcessorEngine.cpp
+  EnumTfCandidates.cpp
+  KeyStateCategory.cpp
+  SampleIMEBaseStructure.cpp
+  SearchCandidateProvider.cpp
+  DictionaryParser.cpp
+  DictionarySearch.cpp
+  DisplayAttribute.cpp
+  DisplayAttributeInfo.cpp
+  DisplayAttributeProvider.cpp
+  DllMain.cpp
+  EditSession.cpp
+  Generating Code...
+  Compiling...
+  EndComposition.cpp
+  EnumDisplayAttributeInfo.cpp
+  File.cpp
+  FileMapping.cpp
+  FunctionProviderSink.cpp
+  GetTextExtentEditSession.cpp
+  Globals.cpp
+  KeyEventSink.cpp
+  KeyHandler.cpp
+  KeyHandlerEditSession.cpp
+  LanguageBar.cpp
+  Register.cpp
+  RegKey.cpp
+  ScrollBarWindow.cpp
+  Server.cpp
+  ShadowWindow.cpp
+  StartComposition.cpp
+  TableDictionaryEngine.cpp
+  SampleIME.cpp
+  TextEditSink.cpp
+  Generating Code...
+  Compiling...
+  TfInputProcessorProfile.cpp
+  TfTextLayoutSink.cpp
+  ThreadFocusSink.cpp
+  ThreadMgrEventSink.cpp
+  TipCandidateList.cpp
+  TipCandidateString.cpp
+  Generating Code...
+ActiveLanguageProfileNotifySink.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library C:\Users\nedum\Projects\MS-Sample-IME-Project\C++\x64\Debug\SampleIME.lib and object C:\Users\nedum\Projects\MS-Sample-IME-Project\C++\x64\Debug\SampleIME.exp
+  SampleIME.vcxproj -> C:\Users\nedum\Projects\MS-Sample-IME-Project\C++\x64\Debug\SampleIME.dll
